@@ -23,7 +23,7 @@
     "bn.js": "5.2.1",
     "bs58": "6.0.0",
     "dotenv": "16.4.1",
-    "jito-ts": "https://${TOKEN}@github.com/jito-foundation/jito-ts.git#main",
+    "jito-ts": "https://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@github.com/jito-foundation/jito-ts.git#main",
     "typescript": "5.5.3",
     "winston": "3.11.0"
   },
